@@ -1,2 +1,1 @@
-# TinDog
-Sample project to learn CSS using Bootstrap
+TinDog Starting Files
